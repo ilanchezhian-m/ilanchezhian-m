@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilanchezhian-m
 - 👀 I’m interested in ...learning new programming skills
 - 🌱 I’m currently learning ...java , python 
-- 💞️ soon to start to contribute in open source community
+- 💞️"open source enthusiast."
 - 📫 
 
 <!---
