@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilanchezhian-m
-- 👀 I’m interested in ...learning new programming skills
-- 🌱 I’m currently learning ...java , python 
+- 👀 I’m an upcoming ... front-End Developer 
+- 🌱 I’m currently learning ...javascript, java , etc 
 - 💞️"open source enthusiast."
 - 📫 
 
