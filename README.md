@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilanchezhian-m
-- 👀 I’m an upcoming ... front-End Developer 
+- 👀 I’m an upcoming ... Front-End Developer 
 - 🌱 I’m currently learning ...javascript, java , etc 
 - 💞️"open source enthusiast."
 - 📫 
