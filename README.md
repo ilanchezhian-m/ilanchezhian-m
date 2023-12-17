@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ilanchezhian-m
-- 👀 I’m an upcoming ... Front-End Developer 
-- 🌱 I’m currently learning ...javascript, java , etc 
+- 👀 I’m. Front-End Developer 
+- 🌱 I’m currently learning ...React, java, python etc 
 - 💞️"open source enthusiast."
-- 📫 
+- 📫 Open to internship/work 
 
 <!---
 ilanchezhian-m/ilanchezhian-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
