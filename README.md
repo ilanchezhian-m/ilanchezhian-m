@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @ilanchezhian
+# 👋 Hi, I’m ilanchezhian
                           
-📫 Open to internship/work 
+<h2 align="center" style="font-size: 24px;">📫 Open to internship/work</h2>
+
 <!---
 ilanchezhian-m/ilanchezhian-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
