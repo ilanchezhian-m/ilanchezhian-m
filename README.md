@@ -1,6 +1,6 @@
                                                            👋 Hi, I’m @ilanchezhian-m 
                                                            📫 Open to internship/work 
-<p style="font-size:18px;">This text is larger.</p>
+<p style="font-size:30px;">This text is larger.</p>
 <!---
 ilanchezhian-m/ilanchezhian-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
